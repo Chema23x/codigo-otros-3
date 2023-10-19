@@ -1,0 +1,6 @@
+Nombre: José Manuel Hernández
+Evaluó: Ingrid Sánchez
+OBTIENE PUNTAJE: 4/5
+COMPETENTE
+
+Mostró conocimientos en el tema, logró corregir varios errores tanto en el archivo HTML como en el JS. Se tardó un poco más del tiempo que se le dio, y no dio oportunidad de ver cómo se mostraba la página en el live server.
