@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="filtro.css">
+  <link rel="stylesheet" href="./filtro.css"> <!--Corregir el llamado del archivo CSS-->
   <title>Filtros en JS</title>
 </head>
 
 <body>
 
   <div>
-      <input type="text" placeholder="Seleccioná un color o tipo">
-      <button>Filtrar</button>
-      <h1>Lista de productos </h1>
+    <h1>Lista de productos </h1> <!--Mover el titulo hacia arriba-->
+      <!--Se agregó clase barraDeFiltro-->  
+    <input class="barraDeFiltro" type="text" placeholder="Selecciona un color">
+      <button class="boton">Filtrar</button>
       <div id="lista-de-productos">
     </div>
   </div>
-  <script src="../filtro.js"></script>
+  <script src="./filtro.js"></script> <!--Correcto llamado del archivo js-->
 </body>
 
 </html>
